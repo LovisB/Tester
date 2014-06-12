@@ -9,9 +9,9 @@ namespace tester
     {
         static void Main(string[] args)
         {
-            //I decided to edit this again
+            //I decided to edit this sdfsdfsdf
             Console.WriteLine(DateTime.Today);
-
+            Console.WriteLine("Maybe We Should DO this");
             bool isComplex = Regex.IsMatch("Mmssssasdasdasdasdasdsadsada45'", @"^.{6,16}(?<=\d.*)(?<=[^a-zA-Z0-9].*)(?<=[A-Z].*)(?<=[A-Z].*)$");
             Console.WriteLine(isComplex);
         }
