@@ -3,3 +3,7 @@ c:\users\andrew\documents\visual studio 2010\Projects\tester\tester\bin\Debug\te
 c:\users\andrew\documents\visual studio 2010\Projects\tester\tester\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\users\andrew\documents\visual studio 2010\Projects\tester\tester\obj\x86\Debug\tester.exe
 c:\users\andrew\documents\visual studio 2010\Projects\tester\tester\obj\x86\Debug\tester.pdb
+C:\Users\Andrew\Documents\GitHub\Tester\tester\obj\x86\Debug\tester.exe
+C:\Users\Andrew\Documents\GitHub\Tester\tester\obj\x86\Debug\tester.pdb
+C:\Users\Andrew\Documents\GitHub\Tester\tester\bin\Debug\tester.exe
+C:\Users\Andrew\Documents\GitHub\Tester\tester\bin\Debug\tester.pdb

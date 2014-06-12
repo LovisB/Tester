@@ -14,6 +14,7 @@ namespace tester
             Console.WriteLine("Maybe We Should DO this");
             bool isComplex = Regex.IsMatch("Mmssssasdasdasdasdasdsadsada45'", @"^.{6,16}(?<=\d.*)(?<=[^a-zA-Z0-9].*)(?<=[A-Z].*)(?<=[A-Z].*)$");
             Console.WriteLine(isComplex);
+            Console.ReadLine();
         }
     }
 }
